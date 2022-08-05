@@ -1,0 +1,304 @@
+.profile-page.astro-DUPCA6FN{
+    color:var(--primary-fg)
+}
+
+.container.astro-MYW3J2YU{
+    position:relative;
+    background-color:var(--primary-bg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    width:100%;
+    color:var(--primary-fg);
+    overflow:hidden;
+    min-height:-webkit-min-content;
+    min-height:-moz-min-content;
+    min-height:min-content
+}
+.container.astro-MYW3J2YU.height-normal{
+    min-height:0
+}
+.section-traits.astro-MYW3J2YU{
+    padding:10rem 2rem
+}
+@media only screen and (min-width: 768px){
+    .section-traits.astro-MYW3J2YU{
+        padding:15rem 2rem
+    }
+}
+.section-about.astro-MYW3J2YU{
+    padding:5rem 1rem
+}
+@media only screen and (min-width: 768px){
+    .section-about.astro-MYW3J2YU{
+        padding:10rem 2rem
+    }
+}
+.section-featured.astro-MYW3J2YU{
+    border-top:1px solid #50525e;
+    padding:1.8rem 0 2rem
+}
+.section-team.astro-MYW3J2YU{
+    padding:4rem 0 6rem;
+    max-width:35rem;
+    margin:0 auto
+}
+@media only screen and (min-width: 1200px){
+    .section-team.astro-MYW3J2YU{
+        max-width:60rem;
+        padding:8rem 0 10rem
+    }
+}
+.section-coinsilium.astro-MYW3J2YU{
+    padding:4rem 1rem 6rem
+}
+@media only screen and (min-width: 1200px){
+    .section-coinsilium.astro-MYW3J2YU{
+        padding:8rem 2rem 10rem
+    }
+}
+.section-horagames.astro-MYW3J2YU{
+    background:#010101 url('../../../public/images/horagames_character.jpg') right bottom/cover no-repeat
+}
+@media only screen and (min-width: 768px){
+    .section-horagames.astro-MYW3J2YU{
+        background-size:contain
+    }
+}
+.section-discount-codes.astro-MYW3J2YU{
+    padding:4rem 1rem
+}
+.centered.astro-MYW3J2YU{
+    display:flex;
+    justify-content:center;
+    align-items:center
+}
+.sm-align-end.astro-MYW3J2YU{
+    align-items:flex-end;
+    padding-bottom:var(--margin-md)
+}
+@media only screen and (min-width: 1200px){
+    .sm-align-end.astro-MYW3J2YU{
+        align-items:center
+    }
+}
+
+.container.astro-NPQH3IAU{
+    display:block;
+    width:100%;
+    height:100%;
+    max-width:61.5rem;
+    padding:var(--padding-xs);
+    margin:0 auto
+}
+@media only screen and (min-width: 1200px){
+    .container.astro-NPQH3IAU{
+        max-width:90rem;
+        padding:var(--padding-lg)
+    }
+}
+.section-horagames.astro-NPQH3IAU{
+    padding:6rem 1rem
+}
+@media only screen and (max-width: 768px){
+    .section-horagames.astro-NPQH3IAU{
+        background-color:#000c
+    }
+}
+@media only screen and (min-width: 1200px){
+    .section-horagames.astro-NPQH3IAU{
+        padding:12rem 2rem
+    }
+}
+.section-hero.astro-NPQH3IAU{
+    position:relative;
+    text-align:center;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    flex:1;
+    min-height:85vh
+}
+@media only screen and (min-width: 768px){
+    .section-hero.astro-NPQH3IAU{
+        min-height:95vh
+    }
+}
+.height-auto.astro-NPQH3IAU{
+    height:auto
+}
+
+.container.astro-ZT7R6LMX{
+    position:relative
+}
+.section-horagames.astro-ZT7R6LMX{
+    max-width:50rem
+}
+
+h1.astro-2Q7GAYXT,h2.astro-2Q7GAYXT,h3.astro-2Q7GAYXT,h4.astro-2Q7GAYXT{
+    text-align:center;
+    color:inherit;
+    margin:auto;
+    font-weight:400
+}
+h1.astro-2Q7GAYXT{
+    font-size:2rem;
+    line-height:1.4;
+    margin-bottom:2rem
+}
+@media only screen and (min-width: 768px){
+    h1.astro-2Q7GAYXT{
+        font-size:3.25rem
+    }
+}
+@media only screen and (min-width: 1920px){
+    h1.astro-2Q7GAYXT{
+        font-size:4rem
+    }
+}
+h1.astro-2Q7GAYXT.leading-lg{
+    line-height:1.5
+}
+h2.astro-2Q7GAYXT{
+    font-size:2.4rem;
+    line-height:1.4;
+    margin-bottom:2rem
+}
+@media only screen and (min-width: 768px){
+    h2.astro-2Q7GAYXT{
+        font-size:3.25rem
+    }
+}
+h2.astro-2Q7GAYXT.section-discount-codes{
+    margin-bottom:.5rem
+}
+.section-horagames.astro-2Q7GAYXT{
+    line-height:1.8
+}
+.text-left.astro-2Q7GAYXT{
+    text-align:left
+}
+.h-uppercase.astro-2Q7GAYXT{
+    text-transform:uppercase
+}
+h3.astro-2Q7GAYXT{
+    display:block;
+    width:100%;
+    font-size:1.35rem;
+    line-height:2.45rem
+}
+h3.astro-2Q7GAYXT.section-discount-codes{
+    text-transform:uppercase;
+    margin-bottom:5rem;
+    font-size:1rem;
+    letter-spacing:1px
+}
+
+p.astro-GIFJMWXA{
+    display:block;
+    font-family:GothamBook;
+    text-align:justify;
+    color:inherit;
+    font-size:1rem;
+    line-height:2;
+    max-width:52.5rem;
+    margin-left:auto;
+    margin-right:auto
+}
+@media only screen and (min-width: 768px){
+    p.astro-GIFJMWXA{
+        font-size:1.125rem
+    }
+}
+.p-center.astro-GIFJMWXA{
+    text-align:center
+}
+.p-uppercase.astro-GIFJMWXA{
+    text-transform:uppercase
+}
+.section-traits.astro-GIFJMWXA{
+    margin-bottom:2.2rem
+}
+.section-coinsilium.astro-GIFJMWXA{
+    max-width:32rem
+}
+.uppercase.astro-GIFJMWXA{
+    text-transform:uppercase
+}
+.font-medium.astro-GIFJMWXA{
+    font-size:1.25rem
+}
+.section-discount-codes.astro-GIFJMWXA{
+    font-size:.89rem
+}
+
+.container.astro-CFAAXQ2F{
+    width:100%;
+    max-width:52.5rem;
+    margin:5rem auto 2rem;
+    background-color:var(--transparent-gray);
+    padding:2rem;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between
+}
+@media only screen and (min-width: 768px){
+    .container.astro-CFAAXQ2F{
+        flex-direction:row
+    }
+}
+.item.astro-CFAAXQ2F{
+    text-align:center;
+    margin:1rem 0
+}
+@media only screen and (min-width: 768px){
+    .item.astro-CFAAXQ2F{
+        width:14rem;
+        margin:0
+    }
+}
+.item.astro-CFAAXQ2F h3.astro-CFAAXQ2F{
+    font-size:2.5rem;
+    margin-bottom:1rem;
+    color:#cecece
+}
+.item.astro-CFAAXQ2F p.astro-CFAAXQ2F{
+    font-size:.7rem;
+    line-height:1.8
+}
+
+.container.astro-NRDQPE6A{
+    display:flex;
+    justify-content:center
+}
+.icon.astro-NRDQPE6A{
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-end;
+    position:relative;
+    margin-right:1rem
+}
+.icon.astro-NRDQPE6A:last-child{
+    margin-right:0
+}
+@media only screen and (min-width: 768px){
+    .icon.astro-NRDQPE6A{
+        margin-right:2rem
+    }
+}
+.img-container.astro-NRDQPE6A{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    flex:1
+}
+.img-container.astro-NRDQPE6A img.astro-NRDQPE6A{
+    margin:0 auto
+}
+.title.astro-NRDQPE6A{
+    font-family:GothamBold;
+    font-size:.7rem;
+    text-transform:uppercase;
+    margin-top:1rem;
+    text-align:center
+}

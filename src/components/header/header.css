@@ -1,0 +1,55 @@
+.header{
+    width:100%;
+    padding:4rem 3rem;
+    margin-bottom:-11rem;
+    position:relative;
+    z-index:1000;
+    display:flex;
+    flex-direction:column-reverse;
+    justify-content:space-between;
+    align-items:center
+}
+
+@media screen and (min-width: 768px){
+    .header{
+        flex-direction:row
+    }
+}
+
+.mainLogo{
+    margin:0 auto;
+    display:block;
+    width:130px;
+    margin-bottom:2rem;
+    padding: 0;
+}
+
+@media screen and (min-width: 768px){
+    .mainLogo{
+        margin-bottom:0rem;        
+    }
+}
+
+.content.astro-TV4I7BUFT{
+    display:flex;
+    flex:1
+}
+
+.content-head{
+    display:flex;
+    flex:1
+}
+
+.container.astro-3BICBB64{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    flex:0
+}
+.item.astro-3BICBB64{
+    display:flex;
+    align-items:center
+}
+.item.astro-3BICBB64+.item.astro-3BICBB64{
+    margin-left:1.5rem
+}
